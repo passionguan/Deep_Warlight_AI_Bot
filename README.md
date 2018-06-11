@@ -20,11 +20,11 @@ The connections between the input layer and hidden layer 1 are constructed from 
 
 The following figure shows the example of hidden layer 1. The connected regions shown in the board are represented as the connected nodes between the hidden layer 1 and hidden layer 2 in the deep neural networks. 
 
-![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/Example_1.png)
+![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/Example_1.PNG)
 
 The following figure shows an example of hidden layer 2. The regions that belong to the same continent are connected to the node which represents that continent. For instance, all the regions in the North America (red circle) are connected to the node in hidden layer 3 which represents the North America.
 
-![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/Example_2.png)
+![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/Example_2.PNG)
 
 ## Tuning Parameters of DNN Using Covariance Matrix Adaptation Evolution Strategy (CMAES)
 
