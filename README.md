@@ -14,7 +14,7 @@ DNN Module: The structure of this module is shown as follows. Our DNN contains f
 
 The connections between the input layer and hidden layer 1 are constructed from the real connections of the regions on the warlight board. Each of the region on the warlight board represents a node in the hidden layer 1. The connections between the region and the neighbored regions are represented by the connections between the input layer nodes and the hidden layer 1 nodes. Each of these connections has a weight. The connections between hidden layer 1 and hidden layer 2 are constructed on continents. Each node from hidden layer 1 has only one connection to the nodes in hidden layer 2. The output layer includes only one node, which represent the outcome of the DNN.
 
-![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/deep_neural_network.png)
+![image](https://github.com/passionguan/Deep_Warlight_AI_Bot/blob/master/Figures/deep_neural_network.PNG)
 
 ## Example
 
